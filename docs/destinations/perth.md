@@ -18,14 +18,14 @@ Jetstar flights out of Perth are handled by Menzies.
 Jetstar services flights to major cities from Perth including:
 
 
-| Domestic | International |
-| -------- | ------- |
-| Gold Coast | Denpasar |
-| Sydney |
-| Melbourne |
-| Adelaide |
-| Brisbane |
-| Cairns |
+|  Domestic  | International |
+| ---------- | ------------- |
+| Gold Coast | Denpasar      |
+| Sydney     |               |
+| Melbourne  |               |   
+| Adelaide   |               |
+| Brisbane   |               |
+| Cairns     |               |
 
 ### Intersection Departure
 Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runways **21/03** at Perth.

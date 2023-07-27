@@ -17,16 +17,16 @@ Jetstar domestic and international flights out of Sydney are handled by Swisspor
 ### Services
 Jetstar services flights to major cities from Sydney including:
 
-| Domestic | International |
-| -------- | ------- |
-| Adelaide | Singapore |
-| Darwin   | Seoul  |
-| Canberra | Denpasar |
-| Perth    | Auckland |
-| Brisbane | Queenstown |
-| Hobart   | Nadi |
+| Domestic |  International   |
+| -------- | ---------------- |
+| Adelaide | Singapore        |
+| Darwin   | Seoul            |
+| Canberra | Denpasar         |
+| Perth    | Auckland         |
+| Brisbane | Queenstown       |
+| Hobart   | Nadi             |
 |          | Ho Chi Minh City |
-|          | Phuket |
+|          | Phuket           |
 
 ### Intersection Departure
 Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runway **16R** at Sydney.
